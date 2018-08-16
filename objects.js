@@ -1,0 +1,1 @@
+var playlist  = { asia: "heat of the moment"};
