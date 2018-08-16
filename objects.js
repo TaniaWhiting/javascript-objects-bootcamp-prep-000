@@ -1,4 +1,4 @@
-var playlist  = { asia: "heat of the moment"};
+var playlist  = new Object ();
 
 function updatePlaylist (playlist, artistName, songTitle){
   playlist['name'] = 'songTitle';
